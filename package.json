@@ -2,7 +2,7 @@
   "name": "guesmynumber",
   "version": "1.0.0",
   "description": "\"You can gues the number between 1 and 20\"",
-  "main": "script.js",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
